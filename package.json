@@ -1,0 +1,23 @@
+{
+  "name": "challenge_11",
+  "version": "1.0.0",
+  "description": "challenge_11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanosGian/challenge_11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanosGian/challenge_11/issues"
+  },
+  "homepage": "https://github.com/PanosGian/challenge_11#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
