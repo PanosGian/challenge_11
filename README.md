@@ -84,6 +84,11 @@ https://notestracker11.herokuapp.com/
         Uniqid
 
 ## Screen shots
+![image](https://user-images.githubusercontent.com/70511172/226106864-c32cb128-991a-45cb-bc7b-b75465598de0.png)
+
+![image](https://user-images.githubusercontent.com/70511172/226106881-7057abca-a04c-4c4b-b5f8-9c7e19c22403.png)
+
+
 
 
 ## Deployment
